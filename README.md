@@ -1,6 +1,6 @@
 # :wave: Hello, I'm Tamado Ramot Sitohang
 
-I joined GitHub on `04/05/2014`. I contributed to `31` repositories and made `434` commits.
+I joined GitHub on `04/05/2014`. I contributed to `31` repositories and made `435` commits.
 ___
 
-
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
