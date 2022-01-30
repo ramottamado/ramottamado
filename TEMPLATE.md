@@ -9,5 +9,5 @@ I joined GitHub on `{{ f.date(REGISTRATION_DATE, {dateStyle:"short"}) }}`. I con
 ## Languages
 [![Languages][lang]](#languages)
 
-[stat]: https://github-readme-stats.vercel.app/api?username=ramottamado&show_icons=true&theme=graywhite&disable_animations=true
-[lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=ramottamado&layout=compact&theme=graywhite
+[stat]: https://github-readme-stats.vercel.app/api?username=ramottamado&show_icons=true&theme=graywhite&disable_animations=true&hide_title=true
+[lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=ramottamado&layout=default&theme=graywhite&hide_title=true&langs_count=10&exclude_repo=ramottamado.dev,TIL,template-blog&card_width=495
