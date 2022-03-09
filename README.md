@@ -1,1 +1,1 @@
-:wave: Hello, I'm Tamado
+:wave: Hello, my name is Tamado
